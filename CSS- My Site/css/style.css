@@ -1,0 +1,75 @@
+
+body{
+  margin:0px;
+  text-align : center;
+  background-color: #f2f6f5
+  font-family: 'Marriweather', serif;
+}
+h1{
+  margin-bottom: 0px;
+  margin-block-start: 0cm;
+  margin-block-end: 0cm;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  top: 400px;
+  text-align: : center;
+  left : 350px;
+
+}
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+
+}
+
+.header2{
+  margin-top: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  position: absolute;
+  text-align: center;
+  top: 450px;
+  left: 410px;
+}
+
+
+.topcontainer{
+  background-color: #f2f6f5;
+  position : relative;
+  Padding-top: 50px;
+}
+.middlecontainer{
+
+}
+.bottomcontainer{
+
+}
+
+.bottomcloud{
+  position : absolute;
+  left : 300px;
+  Bottom : 300px;
+  visibility: hidden;:
+}
+
+.topcloud {
+  position: absolute;
+  right : 300px;
+  top: 50px;
+  visibility: hidden;
+}
+
+.plant{
+  width : 75%;
+  height : 75%;
+}
+
+
+.cake {
+  width:25%;
+  height: 25%;
+  text-align: center;
+  background-color: #f2f6f5;
+}
